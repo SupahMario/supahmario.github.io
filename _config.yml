@@ -1,2 +1,2 @@
 # Attempt to include underscored folders that FrontPage autogenerates
-include: _themes, _borders
+include: _themes, _borders, _overlay, _derived
